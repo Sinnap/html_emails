@@ -1,0 +1,107 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+    <mj-attributes>
+      <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" color="#ffffff" padding="0px" />
+      <mj-image padding="0px" />
+      <mj-button background-color="#d1aa5a" font-size="14px" color="#000000" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="220px" />
+      <mj-section padding="0px" background-color="#000000" />
+      <mj-class name="head-text" font-size="48px" line-height="70px" text-transform="uppercase" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f1f1f1">
+    <!-- logo section -->
+    <mj-section>
+      <mj-column>
+        <mj-image width="128px" src="#" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <!-- welcome section -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="#" alt="welcome" />
+      </mj-column>
+    </mj-section>
+    <!-- discount -->
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-image width="500px" padding-left="50px" padding-right="50px" src="#" alt="enjoy 10% off next order" />
+        <mj-button padding-top="20px">get 10% off now</mj-button>
+        <mj-text font-size="12px">or use code: 2309DLI At Checkout</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- why section -->
+    <mj-section padding-top="80px" padding-left="20px" padding-right="20px">
+      <mj-column width="400px" padding-bottom="15px">
+        <mj-text mj-class="head-text"> Why Warstick? </mj-text>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text> We design uniquely orginal sporting ogoods for poeple looking for more substance and style without sacrificing performace. </mj-text>
+        <mj-image href="#" src="#" alt="learn more" />
+      </mj-column>
+    </mj-section>
+    <!-- video section -->
+    <mj-section>
+      <mj-column padding-bottom="15px">
+        <mj-text mj-class="head-text" padding-left="20px" padding-right="20px"> be the storm </mj-text>
+        <mj-text text-transform="capitalize"> Check out our latest video. </mj-text>
+        <mj-image padding-top="20px" href="#" src="#" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- service section-->
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-text font-size="30px" text-transform="uppercase" padding-right="20px" padding-left="20px"> outstaning service </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- guarantees section -->
+    <mj-section padding-top="30px" padding-left="50px" padding-right="50px">
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="#" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px"> Express Delivery</mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="#" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px"> Express Delivery</mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="#" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px"> Express Delivery</mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="#" />
+        <mj-text font-size="12px" line-height="21px" padding-top="15px"> Express Delivery</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- payments section -->
+    <mj-section padding-top="10px" padding-bottom="80px">
+      <mj-column>
+        <mj-text>
+          <img src="#" width="35px" style="padding:5px;" alt="payment1" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment2" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment3" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment4" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment5" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment6" />
+          <img src="#" width="35px" style="padding:5px;" alt="payment7" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer -->
+    <mj-section background-color="#f6f6ef" padding-bottom="30px">
+      <mj-column width="300px" padding-top="30px">
+        <mj-text>
+          <img src="#" width="25px" style="padding:5px;" alt="facebook" />
+          <img src="#" width="25px" style="padding:5px;" alt="instagram" />
+          <img src="#" width="25px" style="padding:5px;" alt="twitter" />
+          <img src="#" width="25px" style="padding:5px;" alt="youtube" />
+        </mj-text>
+        <mj-text color="#303030" font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px"> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the. <br /> <br />
+          <mj-text font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px">
+            <a href="#" style="color:#303030">Unsubscribe</a>
+          </mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
